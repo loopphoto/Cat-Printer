@@ -51,3 +51,4 @@ test.png
 thumbs.db
 thumbs.db:encryptable
 env/
+.DS_Store
